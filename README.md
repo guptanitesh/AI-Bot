@@ -1,8 +1,7 @@
 AI-Bot
 =========
 
-A command line colorized  BOMBERMAN game based on non Pygame and ncurses implemenation. The game is implemented in python3 and  OOP Principles like Inheritance, Polymorphism, 
-Encapsulation and Modularity are followed.
+An ‘Extreme TicTacToe’ game playing agent for a 4x4x4x4 TicTacToe Game. It is an extension of 4x4 TicTacToe which in turn is an extension of standard 3x3 TicTacToe. Extreme TicTacToe comprises of a 4x4 board in which each cell further is a 4x4 board.
 
 ## Running the game 
 To play with the random player
