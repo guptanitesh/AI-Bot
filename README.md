@@ -7,7 +7,7 @@ An ‘Extreme TicTacToe’ game playing agent for a 4x4x4x4 TicTacToe Game. It i
 To play with the random player
 
  ```
-python simulator.py 1
+python2 simulator.py 1
  ```
 
 ## Description

@@ -361,7 +361,7 @@ if __name__ == '__main__':
 
 	elif option == '2':
 		obj1 = Random_Player()
-		obj2 = Team48()
+		obj2 = Random_Player()
 	elif option == '3':
 		obj1 = Manual_Player()
 		obj2 = Manual_Player()
